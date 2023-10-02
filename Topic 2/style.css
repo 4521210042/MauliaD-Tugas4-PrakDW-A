@@ -1,0 +1,18 @@
+h1 {
+    background-color: beige;
+    padding: 30px;
+}
+
+p {
+    width: 500px;
+}
+
+/* .relative {
+    position: relative;
+    top : 400px;
+    left : 400px;
+} */
+
+nav {
+    position: sticky;
+}
